@@ -162,7 +162,7 @@ def menu():
         elif user_choice == "5":
             display_contacts()
         elif user_choice == "6":
-            export_contacts
+            export_contacts()
         elif user_choice == "7":
             print("Goodbye!")
             break
